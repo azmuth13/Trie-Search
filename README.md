@@ -30,7 +30,7 @@ TrieNode {
 ```
 
 **Searching a word**
-search.js include both linear search and TrieSearch to compare their efficiency. When a user search the result will come from TrieSearch, but both searches will run sequentially to see the advantage of logarithmic time search over linear time time search.
+search.js include both linear search and TrieSearch to compare their efficiency. When a user search the result will come from TrieSearch, but both searches will run sequentially to see the advantage of logarithmic time search over linear time search.
 
 **Screenshots**
 
